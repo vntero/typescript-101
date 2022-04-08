@@ -1,0 +1,19 @@
+{
+  "name": "typescript-101",
+  "version": "1.0.0",
+  "description": "This repository will be used for playing around with TS on multiple projects and multiple levels",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vntero/typescript-101.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vntero/typescript-101/issues"
+  },
+  "homepage": "https://github.com/vntero/typescript-101#readme"
+}
