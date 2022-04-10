@@ -2,7 +2,11 @@
 This repository will be used for playing around with TS on multiple projects and multiple levels
 
 # Concepts that will be covered
-* Basics such as Data Types(Core types, Type Assignment and Type Inference, Object Type) 
+* Basics such as Data Types
+*** Core types 
+*** Type Assignment and Type Inference
+*** Objects
+*** Arrays 
 * Compiler and configuration
 * Classes and Interfaces
 * Advanced Types

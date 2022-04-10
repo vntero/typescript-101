@@ -1,6 +1,6 @@
-const person = {
+const person: {} = {
     name: 'Itachi',
     age: 31
 }
 
-console.log(person.nickname)
+console.log(person.name)
