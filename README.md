@@ -14,7 +14,8 @@ This repository will be used for playing around with TS on multiple projects and
 * --> Literal types
 * --> Void
 * --> Function as types
-* --> Unknown types
+* --> Unknown type
+* --> Never type
 * Compiler and configuration
 * Classes and Interfaces
 * Advanced Types
