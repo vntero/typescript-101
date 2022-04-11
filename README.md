@@ -10,10 +10,11 @@ This repository will be used for playing around with TS on multiple projects and
 * --> Tuples (fixed length arrays)
 * --> Custom type Enum
 * --> Type any
-* --> Union Type
-* --> Literal Types
+* --> Union type
+* --> Literal types
 * --> Void
-* --> Function as Types
+* --> Function as types
+* --> Unknown types
 * Compiler and configuration
 * Classes and Interfaces
 * Advanced Types
