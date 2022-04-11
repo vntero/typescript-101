@@ -12,6 +12,8 @@ This repository will be used for playing around with TS on multiple projects and
 * --> Type any
 * --> Union Type
 * --> Literal Types
+* --> Void
+* --> Function as Types
 * Compiler and configuration
 * Classes and Interfaces
 * Advanced Types
