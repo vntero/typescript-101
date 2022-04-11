@@ -11,6 +11,7 @@ This repository will be used for playing around with TS on multiple projects and
 * --> Custom type Enum
 * --> Type any
 * --> Union Type
+* --> Literal Types
 * Compiler and configuration
 * Classes and Interfaces
 * Advanced Types
