@@ -15,6 +15,7 @@ This repository will be used for playing around with TS on multiple projects and
 10) Function as types
 11) Unknown type and Never type
 * # Compiler and configuration
+* # Classes and Interfaces
 1) Creating a first class
 2) Constructor Functions and the this keyword
 3) private and public Access Modifiers
@@ -24,8 +25,7 @@ This repository will be used for playing around with TS on multiple projects and
 7) Static Methods and Properties
 8) Abstract Classes
 9) Singletons and Private Constructors
-* # Classes and Interfaces
-
+10) Interfaces in Classes: interfaces are used to define the structure of an object
 * Advanced Types
 * Generics
 * Decorators
