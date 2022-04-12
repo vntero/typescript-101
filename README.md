@@ -3,8 +3,7 @@ This repository will be used for playing around with TS on multiple projects and
 
 # Concepts that will be covered
 * # Basics
-* 1) Core types (numbers, strings, boolean)
-* --> Type Assignment and Type Inference
+* 1) Core types, Type Assignment and Type Inference
 * 2) Objects
 * 3) Arrays
 * 4) Tuples (fixed length arrays)
