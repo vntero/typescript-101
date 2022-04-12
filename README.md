@@ -25,8 +25,13 @@ This repository will be used for playing around with TS on multiple projects and
 7) Static Methods and Properties
 8) Abstract Classes
 9) Singletons and Private Constructors
-10) Interfaces in Classes: interfaces are used to define the structure of an object
-* Advanced Types
+10) Interfaces in Classes: interfaces are used to define the structure of an object. They can also be used inside of a class, something not achievable with type
+* # Advanced Types
+1) Intersection Types
+2) Type Guards
+3) Discriminated Unions
+4) Type Casting
+5) Function Overloads
 * Generics
 * Decorators
 * Namespaces and modules

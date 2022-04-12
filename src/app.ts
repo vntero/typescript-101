@@ -1,25 +1,17 @@
-// interfaces are used to define objects and can be used as types down the road
-interface Greetable {
+type Admin = {
     name: string
-
-    greet(phrase: string): void
+    privileges: string[]
 }
 
-class Person implements Greetable {
+type Employee = {
     name: string
-    age = 30
-    
-    constructor (n: string) {
-        this.name = n
-    }
-    greet(phrase: string) {
-        console.log(phrase + ' ' + this.name)
-    }
+    startDate: Date
 }
 
-let user1: Greetable
+type ElevatedEmployee = Admin & Employee
 
-user1 = new Person('Max')
-
-user1.greet('Hi there, I am')
-console.log(user1)
+const e1: ElevatedEmployee = {
+    name: 'Itachi',
+    privileges: ['create-server'],
+    startDate: new Date()
+}
