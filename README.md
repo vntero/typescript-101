@@ -32,7 +32,10 @@ This repository will be used for playing around with TS on multiple projects and
 3) Discriminated Unions
 4) Type Casting
 5) Function Overloads
-* Generics
+* # Generics
+Generics are types that are connected to other types where we want to know which other type that is for better support from TypeScript. It's a way of specifying which type of data will be provided within a type. Generics allow Arrays to know what they store and Promises to know what they will return. They help us to get additional type information, specially when we have a more complex function that does something with the data that's coming in and we want to be more assured of the outcome. 
+1) Built-in generics
+2) Creating a generic function
 * Decorators
 * Namespaces and modules
 
