@@ -39,6 +39,7 @@ Generics are types that are connected to other types where we want to know which
 3) Generic Utility Types
 4) Generic Classes
 * Decorators
+A decorator is just a function. A function you apply to something, for example to a class, in a certain way. Usually start with uppercase.
 * Namespaces and modules
 
 # Enhancers
